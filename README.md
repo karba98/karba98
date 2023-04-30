@@ -39,12 +39,12 @@
 
   ## 💼 Experiencia
 
-
-  <img width="5%" align="left" src="https://user-images.githubusercontent.com/49042638/235359095-d940fe67-e977-4941-b3e6-b88a65d3b0af.png">
-  <h2 align="bottom" ><b> 💼 ALTEN Spain, Madrid (España)</b> - (Noviembre 2021 - Actualidad)</h2>
+  <img width="70" align="left" src="https://user-images.githubusercontent.com/49042638/235362974-248cbd54-9a97-4d95-9186-994f598154f5.png">
+  <h2 align="bottom" ><b> ALTEN Spain, Madrid (España)</b> - (Noviembre 2021 - Actualidad)</h2>
   <br>
 
   ***
+  
   <img width="50px" height="80px" align="left" src="https://user-images.githubusercontent.com/49042638/235353778-5a582423-10b9-4fc1-a629-87807bc89092.svg">
   <h3><b> Cliente Fraternidad-Muprespa </b></h3>
 
@@ -72,8 +72,8 @@
   <br>
   <br>
 
-  <img width="5%" align="left" src="https://user-images.githubusercontent.com/49042638/235353328-bacd7081-77c0-475d-9997-224b381d0e53.jpg"> 
-  <h2><b> 💼 GFI, Madrid (España) Prácticas (Marzo - Junio 2019)</b></h2>
+  <img width="70" align="left" src="https://user-images.githubusercontent.com/49042638/235353328-bacd7081-77c0-475d-9997-224b381d0e53.jpg"> 
+  <h2><b> GFI, Madrid (España) Prácticas (Marzo - Junio 2019)</b></h2>
 
   ***
 
