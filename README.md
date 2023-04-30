@@ -15,7 +15,7 @@
 </p>
 
 <details>
-   <summary>💼👨‍💻 ¿Quieres saber más?</summary>
+   <summary>💼👨‍💻 <h4><b>¿Quieres saber más?</b></h4></summary>
    
    ## 🎓 Educación y formación
 
