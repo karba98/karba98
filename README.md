@@ -39,9 +39,8 @@
 
   ## 💼 Experiencia
 
-  <img width="70" align="left" src="https://user-images.githubusercontent.com/49042638/235362974-248cbd54-9a97-4d95-9186-994f598154f5.png">
+  <img width="70" align="left" src="https://user-images.githubusercontent.com/49042638/235363119-9c3aac8e-c3cc-49fd-bccc-9c4b84f84eba.png">
   <h2 align="bottom" ><b> ALTEN Spain, Madrid (España)</b> - (Noviembre 2021 - Actualidad)</h2>
-  <br>
 
   ***
   
