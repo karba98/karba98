@@ -39,11 +39,11 @@
 
   ## 💼 Experiencia
 
-  <img width="70" align="left" src="https://user-images.githubusercontent.com/49042638/235363119-9c3aac8e-c3cc-49fd-bccc-9c4b84f84eba.png">
+  <img width="70" align="left" src="https://user-images.githubusercontent.com/49042638/235363297-794a1312-65b0-4c08-b617-4aeee1ece767.png">
   <h2 align="bottom" ><b> ALTEN Spain, Madrid (España)</b></h2>
 
   ***
-  
+
   <img width="50px" height="80px" align="left" src="https://user-images.githubusercontent.com/49042638/235353778-5a582423-10b9-4fc1-a629-87807bc89092.svg">
   <h3><b> Cliente Fraternidad-Muprespa </b></h3>
 
