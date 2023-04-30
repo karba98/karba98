@@ -40,7 +40,7 @@
   ## 💼 Experiencia
 
   <img width="70" align="left" src="https://user-images.githubusercontent.com/49042638/235363119-9c3aac8e-c3cc-49fd-bccc-9c4b84f84eba.png">
-  <h2 align="bottom" ><b> ALTEN Spain, Madrid (España)</b> - (Noviembre 2021 - Actualidad)</h2>
+  <h2 align="bottom" ><b> ALTEN Spain, Madrid (España)</b></h2>
 
   ***
   
@@ -72,11 +72,11 @@
   <br>
 
   <img width="70" align="left" src="https://user-images.githubusercontent.com/49042638/235353328-bacd7081-77c0-475d-9997-224b381d0e53.jpg"> 
-  <h2><b> GFI, Madrid (España) Prácticas (Marzo - Junio 2019)</b></h2>
+  <h2><b> GFI, Madrid (España)</b></h2>
 
   ***
 
-
+<h4>Prácticas - (Marzo - Junio 2019)</h4>
 
   🎓 Curso SpringBoot – Java Udermy<br>
   🎓 Instalación y gestión de certificados SSL en proyecto de intranet Lyreco Iberia<br>
