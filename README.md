@@ -1,8 +1,11 @@
-# ¡Hola! 👋 Soy Raúl Castro.
+## ¡Hola! 👋 Soy Raúl Castro.
 
-## 🧑‍💼 Acerca de mí
+***
+
+# 🧑‍💼 Acerca de mí
 <p>
-👨‍💻 Soy un desarrollador de software experimentado y altamente calificado, con habilidades para trabajar en diversas plataformas, ya sea web o móvil. Con una amplia experiencia en programación y servicios en la nube, me he convertido en un experto en el diseño y desarrollo de soluciones informáticas para empresas de diferentes tamaños y sectores.
+👨‍💻 Soy un desarrollador de software experimentado y altamente calificado, con habilidades para trabajar en diversas plataformas. 
+   Con una amplia experiencia en programación y servicios en la nube, me he convertido en un experto en el diseño y desarrollo de soluciones informáticas para empresas de diferentes tamaños    y sectores.
 </p>
 <p>
 🚀Además, me considero una persona muy resolutiva, organizada y dedicada en cada proyecto en el que me involucro, siempre orientado a alcanzar los mejores resultados y a entregar productos de calidad. Me gusta trabajar en equipo y colaborar con otros profesionales para encontrar soluciones innovadoras a los desafíos que se presentan.
@@ -10,8 +13,6 @@
 <p>
 🏆 Mi pasión por la tecnología me lleva a estar siempre en constante aprendizaje, actualizándome en las últimas tendencias y herramientas del mercado. De esta manera, puedo brindar a mis clientes las soluciones más avanzadas y eficientes, garantizando un alto nivel de satisfacción y éxito en cada proyecto.
 </p>
-
-***
 
   ## 🎓 Educación y formación
 
@@ -30,14 +31,14 @@
   <br>
 
   ## 🚀 Proyectos
-
-  🌐 <b>Portal de Seguridad - Vigilancia y Protección</b>: Noticias, cursos y empleo a nivel nacional del mundo de la seguridad
+  
+  <a href="https://vigilanciayproteccion.website/"><img width="30%" src="https://user-images.githubusercontent.com/49042638/235359695-eed574d3-c07d-4052-b9ca-b4a4c393c762.png"/></a>
   <br>
-  <a href="https://vigilanciayproteccion.website/"><img src="https://user-images.githubusercontent.com/49042638/235359695-eed574d3-c07d-4052-b9ca-b4a4c393c762.png"/></a>
+  🌐 <b>Fundador de Portal de Seguridad - Vigilancia y Protección</b>: Noticias, cursos y empleo a nivel nacional del mundo de la seguridad
 
   <br>
 
-  ## 💼 Experiencia
+  <h1><b> 💼 Experiencia </b></h1>
 
   <img width="70" align="left" src="https://user-images.githubusercontent.com/49042638/235363297-794a1312-65b0-4c08-b617-4aeee1ece767.png">
   <h2 align="bottom" ><b> ALTEN Spain, Madrid (España)</b></h2>
@@ -46,7 +47,7 @@
 
   <img width="50px" height="80px" align="left" src="https://user-images.githubusercontent.com/49042638/235353778-5a582423-10b9-4fc1-a629-87807bc89092.svg">
   <h3><b> Cliente Fraternidad-Muprespa </b></h3>
-
+  
   ##### Mutua Colaboradora con la Seguridad Social nº 275.
 
   ##
