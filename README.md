@@ -137,7 +137,6 @@
   <div style="display:flex;">
     <a href="https://www.linkedin.com/in/ra%C3%BAl-castro-de-la-torre-861508103/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>     </a>
     <a href="mailto:raul.castrodlt@outlook.es"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-    <a href="tel:615914298"><img src="https://img.shields.io/badge/Telefono-33AFFF?style=for-the-badge&logo=phone&logoColor=white"/></a>
   </div>
 
 
