@@ -35,7 +35,7 @@
 
    ## 🚀 Proyectos
 
-   <a href="https://vigilanciayproteccion.website/"><img width="30%" src="https://user-images.githubusercontent.com/49042638/235359695-eed574d3-c07d-4052-b9ca-b4a4c393c762.png"/></a>
+   <a href="https://vigilanciayproteccion.website/"><img width="100%" src="https://user-images.githubusercontent.com/49042638/235359695-eed574d3-c07d-4052-b9ca-b4a4c393c762.png"/></a>
    <br>
    🌐 <b>Fundador de Portal de Seguridad - Vigilancia y Protección</b>: Noticias, cursos y empleo a nivel nacional del mundo de la seguridad
 
