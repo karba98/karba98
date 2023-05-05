@@ -1,8 +1,23 @@
-## ¡Hola! 👋 Soy Raúl Castro.
+##
+   <h1 align="center">
+    <img width="10%" src="https://user-images.githubusercontent.com/49042638/236436527-75d761d2-af9f-4766-9243-52b9bfe717b3.png" align="left">
+   </h1>
+
+   # Raúl Castro de la Torre
+
+
 
 ***
-
+<br>
+<br>
 # 🧑‍💼 Acerca de mí
+
+
+   <p align="left">
+    <h4 style="text-align:center" >
+      ¡Hola! 👋 Soy Raúl Castro.
+    </h4>
+   </p>
 <p>
 👨‍💻 Soy un desarrollador de software experimentado y altamente cualificado, con habilidades para trabajar en diversas plataformas. 
    Con una amplia experiencia en programación y servicios en la nube, me he convertido en un experto en el diseño y desarrollo de soluciones informáticas para empresas de diferentes tamaños    y sectores.
