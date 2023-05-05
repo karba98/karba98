@@ -11,7 +11,7 @@
 <br>
 <br>
 
-# 🧑‍💼 Acerca de mí
+## 🧑‍💼 Acerca de mí
 
 
    <p align="left">
