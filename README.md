@@ -1,15 +1,16 @@
 ##
    <h1 align="center">
-    <img width="10%" src="https://user-images.githubusercontent.com/49042638/236436527-75d761d2-af9f-4766-9243-52b9bfe717b3.png" align="left">
+    <img width="16%" src="https://user-images.githubusercontent.com/49042638/236436527-75d761d2-af9f-4766-9243-52b9bfe717b3.png" align="left">
    </h1>
 
-   # Raúl Castro de la Torre
+   ## Raúl Castro de la Torre
 
 
 
 ***
 <br>
 <br>
+
 
 ## 🧑‍💼 Acerca de mí
 
@@ -57,7 +58,7 @@
 
    <br>
 
-   <h1><b> 💼 Experiencia </b></h1>
+   <h2><b> 💼 Experiencia </b></h2>
 
    <img width="70" align="left" src="https://user-images.githubusercontent.com/49042638/235363297-794a1312-65b0-4c08-b617-4aeee1ece767.png">
    <h2 align="bottom" ><b> ALTEN Spain, Madrid (España)</b></h2>
