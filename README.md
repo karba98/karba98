@@ -58,7 +58,7 @@
 
    ### :file_folder: Acceso al proyecto
 
-   Puedes acceder al proyecto haciendo click [aquí](https://github.com/karba98/ASP.TEMPLATE).
+   Puedes acceder al proyecto base haciendo click [aquí](https://github.com/karba98/ASP.TEMPLATE).
    <br>¡No dudes en explorar el código! 🚀
    
    <br>
