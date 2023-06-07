@@ -79,7 +79,9 @@
 
    🔍 Realicé la gestión y seguimiento tanto de incidencias como de actualizaciones de versiones (CI/CD) en proyectos .NET MVC y Visual Basic, además de tramitar altas, bajas y permisos de usuarios en JIRA, GitLab, Confluence y otras herramientas.
 
-   📝📅 Diseñé y elaboré planes de pruebas para aplicaciones tanto automatizadas como manuales usando herramientas como Selenium y TestLinkProgramador en Oficina de Certificación. Cliente Fraternidad Muprespa Realicé la gestión y seguimiento tanto de incidencias como de actualizaciones de versiones (CI/CD) en proyectos .NET MVC y Visual Basic, además de tramitar altas, bajas y permisos de usuarios en JIRA, GitLab, Confluence y otras herramientas. Diseñé y elaboré planes de pruebas para aplicaciones tanto automatizadas como manuales usando herramientas como Selenium y TestLink
+   📝📅 Diseñé y elaboré planes de pruebas para aplicaciones tanto automatizadas como manuales usando herramientas como Selenium y TestLink.
+
+Realicé la gestión y seguimiento tanto de incidencias como de actualizaciones de versiones (CI/CD) en proyectos .NET MVC y Visual Basic, además de tramitar altas, bajas y permisos de usuarios en JIRA, GitLab, Confluence y otras herramientas. Diseñé y elaboré planes de pruebas para aplicaciones tanto automatizadas como manuales usando herramientas como Selenium y TestLink
 
    <b> 🧩 Aptitudes:</b> Pruebas automatizadas de software · Selenium · Certificación · Confluence · GitLab · TestLink · JIRA · Pruebas manuales · Gestión de usuarios · Gestión de proyectos
    <br>
