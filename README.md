@@ -1,10 +1,9 @@
 ##
    <h1 align="center">
-    <img width="16%" src="https://user-images.githubusercontent.com/49042638/236436527-75d761d2-af9f-4766-9243-52b9bfe717b3.png" align="left">
+    <img width="16%" src="https://github.com/karba98/karba98/assets/49042638/c1bc3560-e46b-4c1d-bb70-0efd8d03a687" align="left">
    </h1>
 
    ## Raúl Castro de la Torre
-
 
 
 ***
