@@ -75,9 +75,10 @@
    ##### Mutua Colaboradora con la Seguridad Social nº 275.
 
    ##
-   <h4>💻🛠️📈   Programador B en Oficina de Certificación (Noviembre 2022 - Actualidad)</h4>
+   <h4>💻🛠️📈   Programador - DevOps en Oficina de Certificación (Noviembre 2022 - Actualidad)</h4>
 
    🔍 Realicé la gestión y seguimiento tanto de incidencias como de actualizaciones de versiones (CI/CD) en proyectos .NET MVC y Visual Basic. Además realicé evolutivos y mantenimiento de scripts, servicios de CI/CD con Gitlab, Jenkins, SonarQube y NodeJS (TypeScript, JS y Python).
+   <br>
    📝📅 Diseñé y elaboré planes de pruebas para aplicaciones tanto automatizadas como manuales usando herramientas como Selenium y TestLink.
 
 Realicé la gestión y trámite de altas, bajas y permisos de usuarios en JIRA, GitLab, Confluence, SonarQube y otras herramientas. Diseñé y elaboré planes de pruebas para aplicaciones tanto automatizadas como manuales usando herramientas como Selenium y TestLink
