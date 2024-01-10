@@ -1,6 +1,6 @@
 ##
    <h1 align="center">
-    <img width="16%" src="https://github.com/karba98/karba98/assets/49042638/c1bc3560-e46b-4c1d-bb70-0efd8d03a687" align="left">
+    <img width="16%" src="https://github.com/karba98/karba98/assets/49042638/adae92fd-eab6-4d45-9d39-4af5487544a6" align="left">
    </h1>
 
    ## Raúl Castro de la Torre
@@ -42,7 +42,7 @@
    ## 💻 Competencias digitales
 
    - Programación en ASP .Net, Entity Framewrok (MVC), .Net Framework: Nivel Profesional
-   - Desarrollo Web con Angular, React, JS y JQuery: Nivel Avanzado
+   - Desarrollo Web con Angular, React, TypeScript, JS y JQuery: Nivel Avanzado
    - Dominio de Servicios Cloud (Microsoft Azure y Amazon Web Services): Nivel Profesional (Certificados nivel associate)
    - Programación en Java + SpringBoot: Nivel avanzado
    - Gestión de bases de datos SQL y NoSQL: Nivel avanzado
@@ -77,11 +77,10 @@
    ##
    <h4>💻🛠️📈   Programador B en Oficina de Certificación (Noviembre 2022 - Actualidad)</h4>
 
-   🔍 Realicé la gestión y seguimiento tanto de incidencias como de actualizaciones de versiones (CI/CD) en proyectos .NET MVC y Visual Basic, además de tramitar altas, bajas y permisos de usuarios en JIRA, GitLab, Confluence y otras herramientas.
-
+   🔍 Realicé la gestión y seguimiento tanto de incidencias como de actualizaciones de versiones (CI/CD) en proyectos .NET MVC y Visual Basic. Además realicé evolutivos y mantenimiento de scripts, servicios de CI/CD con Gitlab, Jenkins, SonarQube y NodeJS (TypeScript, JS y Python).
    📝📅 Diseñé y elaboré planes de pruebas para aplicaciones tanto automatizadas como manuales usando herramientas como Selenium y TestLink.
 
-Realicé la gestión y seguimiento tanto de incidencias como de actualizaciones de versiones (CI/CD) en proyectos .NET MVC y Visual Basic, además de tramitar altas, bajas y permisos de usuarios en JIRA, GitLab, Confluence y otras herramientas. Diseñé y elaboré planes de pruebas para aplicaciones tanto automatizadas como manuales usando herramientas como Selenium y TestLink
+Realicé la gestión y trámite de altas, bajas y permisos de usuarios en JIRA, GitLab, Confluence, SonarQube y otras herramientas. Diseñé y elaboré planes de pruebas para aplicaciones tanto automatizadas como manuales usando herramientas como Selenium y TestLink
 
    <b> 🧩 Aptitudes:</b> Pruebas automatizadas de software · Selenium · Certificación · Confluence · GitLab · TestLink · JIRA · Pruebas manuales · Gestión de usuarios · Gestión de proyectos
    <br>
