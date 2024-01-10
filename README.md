@@ -79,9 +79,9 @@
 
    🔍 Realicé la gestión y seguimiento tanto de incidencias como de actualizaciones de versiones (CI/CD) en proyectos .NET MVC y Visual Basic. Además realicé evolutivos y mantenimiento de scripts, servicios de CI/CD con Gitlab, Jenkins, SonarQube y NodeJS (TypeScript, JS y Python).
    <br>
-   📝📅 Diseñé y elaboré planes de pruebas para aplicaciones tanto automatizadas como manuales usando herramientas como Selenium y TestLink.
-
-Realicé la gestión y trámite de altas, bajas y permisos de usuarios en JIRA, GitLab, Confluence, SonarQube y otras herramientas. Diseñé y elaboré planes de pruebas para aplicaciones tanto automatizadas como manuales usando herramientas como Selenium y TestLink
+   📝 Diseñé y elaboré planes de pruebas para aplicaciones tanto automatizadas como manuales usando herramientas como Selenium y TestLink.
+<br>
+   📅 Realicé la gestión y trámite de altas, bajas y permisos de usuarios en JIRA, GitLab, Confluence, SonarQube y otras herramientas. Diseñé y elaboré planes de pruebas para aplicaciones tanto    automatizadas como manuales usando herramientas como Selenium y TestLink
 
    <b> 🧩 Aptitudes:</b> Pruebas automatizadas de software · Selenium · Certificación · Confluence · GitLab · TestLink · JIRA · Pruebas manuales · Gestión de usuarios · Gestión de proyectos
    <br>
