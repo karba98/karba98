@@ -3,7 +3,7 @@
     <img width="16%" src="https://github.com/karba98/karba98/assets/49042638/adae92fd-eab6-4d45-9d39-4af5487544a6" align="left">
    </h1>
 
-   ## Raúl Castro de la Torre
+   ### Raúl Castro de la Torre
 
 
 ***
